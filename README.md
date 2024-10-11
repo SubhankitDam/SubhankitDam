@@ -1,17 +1,22 @@
 ## Hi lovely coders :D
 
+I'm Subhankit Dam, majoring in the field of B.Tech, CSE with specialization in Cybersecurity, and this is a little introduction about my passion and my interests. ^o^
+
 ### About Me:
 
 - 🔧 Aspiring Ethical Hacker & Developer:
 
   I'm currently exploring the world of ethical hacking while learning C and Python. I'm stll very new in this exciting world of programming, so I'm looking forward to explore everything it has in store for me. ^c^
+
 - 🌱 Currently Learning:
 
    C and Python, after which I am interested to learn everything needed for ethical hacking.
+
 - 📈 Current Goals:
 
   1) Learn C and Python
   2) Ethical hacking fundamentals
+
 - 🎯 Future Goals:
 
   1) Collaborate on **open-source projects** and **commits** to contribute to the community.
