@@ -19,6 +19,8 @@ any AI at all (because f\*\*k AI ( ,,⩌'︿'⩌ꐦ,,))**
 
 ---
 
-I really don't have anything else to say. I just hope you don't cringe after reading my bio (｡﹏｡"ᵕ)
+I really don't have anything else to say. I just hope you don't cringe while reading my bio (｡﹏｡"ᵕ)
+
+Oh, and one more thing. I really like Pokémon. Umbreon is my favorite Pokémon of all time. OwO
 
 ## K Bye!!! ヾ(˃ᴗ˂)◞ • *✰
