@@ -6,9 +6,22 @@ Yeah, it is a bit hard learning so many programming languages, especially since 
 
 But at the same time, when I finally crack a problem or make something completely by myself without the help of AI, it truly feels satisfying.
 
+---
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="60" height="60" alt="C logo"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python logo"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5 logo"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3 logo"/>
+</div>
+
 I don't know much right now, just some basic C, general Python, and HTML and CSS.
 
-Out of my busy schedule (because of my uni "( – ⌓ – )), I still try to take time out for myself to learn and actually do stuff.
+Out of my busy schedule (uni stuff "( – ⌓ – )), I still try to take time out for myself to learn and actually do stuff.
 
 Currently, my focus is to learn **frontend dev**. Then I will move on to backend dev and finally start studying about **_ethical hacking_** after my semester exams.
 
@@ -19,7 +32,7 @@ any AI at all (because f\*\*k AI ( ,,⩌'︿'⩌ꐦ,,))**
 
 ---
 
-I really don't have anything else to say. I just hope you don't cringe while reading my bio (｡﹏｡"ᵕ)
+I really don't have anything else to say. I just hope you don't cringe after reading my bio (｡﹏｡"ᵕ)
 
 Oh, and one more thing. I really like Pokémon. Umbreon is my favorite Pokémon of all time. OwO
 
